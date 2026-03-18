@@ -55,3 +55,7 @@ Envio direto via API (sem link)
 Interface mais amigável (UserForm)
 
 Logs de execução
+
+## 📷 Exemplo
+
+![Exemplo do sistema](Captura de tela 2026-03-18 100814.PNG)
